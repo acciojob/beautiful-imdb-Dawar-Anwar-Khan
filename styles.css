@@ -1,2 +1,18 @@
+section{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+  flex-direction: column;
+}
 
-/* Your CSS Code here. */
+.moviePic{
+	height: 300px;
+	width: 200px;
+	opacity: 1;
+}
+
+.movieDetail{
+	width:500px;
+	text-align: center;
+	font-size: 100;
+}
