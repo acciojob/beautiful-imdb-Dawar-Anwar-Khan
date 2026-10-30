@@ -6,8 +6,8 @@ section{
 }
 
 .moviePic{
-	height: 300px;
-	width: 200px;
+	height: 700px;
+	width: 500px;
 	opacity: 1;
 }
 
@@ -15,4 +15,7 @@ section{
 	width:500px;
 	text-align: center;
 	font-size: 100;
+	position: absolute;
+	top:ahead;
+	color: blueviolet;
 }
